@@ -27,7 +27,7 @@ My own experiments and forks. The product code lives in the [ShipItWorks](https:
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/robert-sweetman-74602a227/) · [X @sprezzaturah](https://x.com/sprezzaturah) · [ShipItWorks](https://shipitworks.com) · [aiconsumerrights.org](https://aiconsumerrights.org)
+[LinkedIn](https://www.linkedin.com/in/robert-sweetman-74602a227/) · [X @sprezzaturah](https://x.com/e_all0ra) · [ShipItWorks](https://shipitworks.com) · [aiconsumerrights.org](https://aiconsumerrights.org)
 
 ---
 
