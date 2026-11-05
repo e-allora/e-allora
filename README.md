@@ -19,15 +19,9 @@ A few of them:
 
 I make the decisions. AI (mostly Claude, by Anthropic) writes most of the code, and every project says so. I say only what I can back, credit people and tools by name, collect as little data as possible, and fix mistakes in public.
 
-## On this account
-
-My own experiments and forks. The product code lives in the [ShipItWorks](https://github.com/ShipItWorks) organization.
-
-- [obsidian-clipper](https://github.com/e-allora/obsidian-clipper): a fork of the Obsidian Web Clipper, to make title-and-text capture reliable and automatable.
-
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/robert-sweetman-74602a227/) · [X @sprezzaturah](https://x.com/e_all0ra) · [ShipItWorks](https://shipitworks.com) · [aiconsumerrights.org](https://aiconsumerrights.org)
+[LinkedIn](https://www.linkedin.com/in/robert-sweetman-74602a227/) · [X @e_all0ra](https://x.com/e_all0ra) · [ShipItWorks](https://shipitworks.com) · [aiconsumerrights.org](https://aiconsumerrights.org)
 
 ---
 
