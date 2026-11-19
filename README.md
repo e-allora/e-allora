@@ -2,7 +2,7 @@
 
 Builder at [ShipItWorks](https://shipitworks.com). Security and AI tools, built in the open. Plain words, honest claims, people first.
 
-Greater Boston. Preparing for CompTIA Security+ (SY0-701), November 2026.
+Greater Boston. Studying for CompTIA Security+, SY0-701. No exam date yet.
 
 ## What I'm building
 
